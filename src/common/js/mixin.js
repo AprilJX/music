@@ -22,4 +22,4 @@ export const playlistMixin = {
 			throw new Error('compoent must implement handlePlaylist method');
 		}
 	}
-}
+};
